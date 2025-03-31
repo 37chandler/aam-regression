@@ -1,4 +1,10 @@
-subaru_data.txt
+old-subaru-data.txt
+subaru-data.csv
+data-pull.sql
+*solution*
+holder.Rmd
+.DS_Store
+
 
 # History files
 .Rhistory
