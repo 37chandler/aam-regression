@@ -8,7 +8,7 @@ The goal is to use this subaru data to understand a few fundamental questions:
 -   What is the relationship between price and key covariates like age, mileage, and model?
 -   What are five cars that seem like an unusually good deal?
 
-This last question is the heart of the analysis, since we'd like to use this model to "carbitrage" car inventory. As we discussed in class, once you've built you're model we're interested in cars that have a large negative residual. These cars are cheaper than what our model thinks they're worth. Be on the look out for *absurd* deals, as these are probably salvage titles, cars being sold for parts, etc. Basically, you're looking for a car that's a couple of grand lower than expected, but not 20% or the expected price.
+This last question is the heart of the analysis, since we'd like to use this model to "carbitrage" car inventory. As we discussed in class, once you've built you're model we're interested in cars that have a large negative residual. These cars are cheaper than what our model thinks they're worth. Be on the look out for *absurd* deals, as these are probably salvage titles, cars being sold for parts, etc. Basically, you're looking for a car that's a couple of grand lower than expected, but not 20% of the expected price.
 
 ## Subaru Data
 
